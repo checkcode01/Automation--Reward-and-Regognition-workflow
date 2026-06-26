@@ -1,6 +1,51 @@
 # Automation-R-R
 My Automation of R&amp;R workflow
 <img width="1024" height="1536" alt="1000031724" src="https://github.com/user-attachments/assets/b0bdec3b-ed81-4069-8b8c-3e4cef397a33" />
+<img width="1536" height="1024" alt="1000033137" src="https://github.com/user-attachments/assets/290a4904-559f-4de3-9fd1-89c0664c750a" />
+
+🎓 Learning & Development
+Training completion certificates
+Batch learning reminders
+Learning nomination emails
+Course completion acknowledgements
+Leadership program graduation certificates
+🏆 Rewards & Recognition
+Spot Award certificates
+Employee of the Month recognition
+Service anniversary certificates
+Team achievement recognitions
+Manager appreciation awards
+👥 HR Operations
+Offer letters
+Internship completion certificates
+Experience letters
+Appreciation letters
+Promotion letters
+Welcome emails for new hires
+📊 Employee Engagement
+Event participation certificates
+Wellness challenge recognition
+Quiz and competition certificates
+Festival event acknowledgements
+CSR participation certificates
+🤝 Client & Business Operations
+Thank-you certificates for clients
+Vendor appreciation letters
+Partner recognition communications
+Workshop participation certificates
+📈 Advanced Version (Next Level)
+Instead of only generating certificates, the workflow can:
+Read participant data from Excel/Forms
+Generate certificate
+Convert to PDF
+Send personalized email
+Post recognition in Viva Engage
+Update SharePoint tracker
+Create Power BI dashboard
+Notify managers automatically
+Capture engagement metrics
+
+
 
 VBA code:
 Option Explicit
@@ -368,49 +413,4 @@ Function CleanFileName(ByVal txt As String) As String
     CleanFileName = txt
 
 End Function
-*************************************************************************
-<img width="1536" height="1024" alt="1000033137" src="https://github.com/user-attachments/assets/290a4904-559f-4de3-9fd1-89c0664c750a" />
-
-🎓 Learning & Development
-Training completion certificates
-Batch learning reminders
-Learning nomination emails
-Course completion acknowledgements
-Leadership program graduation certificates
-🏆 Rewards & Recognition
-Spot Award certificates
-Employee of the Month recognition
-Service anniversary certificates
-Team achievement recognitions
-Manager appreciation awards
-👥 HR Operations
-Offer letters
-Internship completion certificates
-Experience letters
-Appreciation letters
-Promotion letters
-Welcome emails for new hires
-📊 Employee Engagement
-Event participation certificates
-Wellness challenge recognition
-Quiz and competition certificates
-Festival event acknowledgements
-CSR participation certificates
-🤝 Client & Business Operations
-Thank-you certificates for clients
-Vendor appreciation letters
-Partner recognition communications
-Workshop participation certificates
-📈 Advanced Version (Next Level)
-Instead of only generating certificates, the workflow can:
-Read participant data from Excel/Forms
-Generate certificate
-Convert to PDF
-Send personalized email
-Post recognition in Viva Engage
-Update SharePoint tracker
-Create Power BI dashboard
-Notify managers automatically
-Capture engagement metrics
-Generate monthly impact reports
-💰 Business Impact Story for Leadership
+***********
