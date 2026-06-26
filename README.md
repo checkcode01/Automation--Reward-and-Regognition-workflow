@@ -48,6 +48,7 @@ Capture engagement metrics
 
 
 VBA code:
+
 Option Explicit
 
 Private Const PLACEHOLDER_NAME As String = "Ashish Joshi"
